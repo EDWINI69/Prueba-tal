@@ -15,7 +15,7 @@ function Titulo() {
 
       <input type="text" onChange={Click} />
 
-      <p>Ha presionado el boton {count} veces</p>
+      <p>Ha presionado el boton {count} veces mi loco</p>
     </div>
   );
 }
